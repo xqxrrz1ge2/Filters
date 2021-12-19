@@ -2,14 +2,14 @@
 # > General
 USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
-DOMAIN,app.adjust.com,PROXY
+DOMAIN,app.adjust.com,DEFAULT
 # > Google
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
-DOMAIN,analyticsinsights-pa.googleapis.com,PROXY
-DOMAIN,analyticsreporting.googleapis.com,PROXY
-DOMAIN,googleapis.com,PROXY
-DOMAIN,dl.google.com,PROXY
-DOMAIN,mtalk.google.com,PROXY
+DOMAIN,analyticsinsights-pa.googleapis.com,DEFAULT
+DOMAIN,analyticsreporting.googleapis.com,DEFAULT
+DOMAIN,googleapis.com,DEFAULT
+DOMAIN,dl.google.com,DEFAULT
+DOMAIN,mtalk.google.com,DEFAULT
 # > Tencent
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT
