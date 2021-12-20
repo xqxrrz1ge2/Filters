@@ -1,4 +1,5 @@
 payload:
+  - '+.fast.com'
   - '+.netflix.ca'
   - '+.netflix.com'
   - '+.netflix.net'
