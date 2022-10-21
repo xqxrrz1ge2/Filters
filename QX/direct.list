@@ -11,3 +11,7 @@ DOMAIN-SUFFIX,wiline.com,DIRECT
 
 #teams
 DOMAIN-KEYWORD,teams,DIRECT
+
+#goolge
+DOMAIN-SUFFIX,app-measurement.com,DIRECT
+DOMAIN,firebaselogging-pa.googleapis.com,DIRECT
