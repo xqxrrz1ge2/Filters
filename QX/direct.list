@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,wiline.com,DIRECT
 
 #teams
 DOMAIN-KEYWORD,teams,DIRECT
+DOMAIN-KEYWORD,office,DIRECT
 
 #goolge
 DOMAIN-SUFFIX,app-measurement.com,DIRECT
