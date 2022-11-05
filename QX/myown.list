@@ -1501,10 +1501,12 @@ DOMAIN-SUFFIX,web-instagram.net,DEFAULT
 DOMAIN-SUFFIX,wwwinstagram.com,DEFAULT
 
 #porbhub
-DOMAIN-SUFFIX,phncdn.com,DEFAULT
-DOMAIN-SUFFIX,phprcdn.com,DEFAULT
-DOMAIN-SUFFIX,pornhub.com,DEFAULT
-DOMAIN-SUFFIX,pornhubpremium.com,DEFAULT
+DOMAIN-SUFFIX,phncdn.com,NSFW
+DOMAIN-SUFFIX,phprcdn.com,NSFW
+DOMAIN-SUFFIX,pornhub.com,NSFW
+DOMAIN-SUFFIX,pornhubpremium.com,NSFW
+DOMAIN-SUFFIX,missav.com,NSFW
+DOMAIN-SUFFIX,xvideos.com,NSFW
 
 #fb messenger
 DOMAIN-SUFFIX,fbmessenger.com,DEFAULT
