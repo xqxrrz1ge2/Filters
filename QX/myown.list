@@ -1413,18 +1413,18 @@ DOMAIN-SUFFIX,redkix.com,DEFAULT
 DOMAIN-SUFFIX,workplace.com,DEFAULT
 DOMAIN-SUFFIX,workplaceusecases.com,DEFAULT
 #netflix
-DOMAIN-SUFFIX,fast.com,NSFW
-DOMAIN-SUFFIX,netflix.ca,NSFW
-DOMAIN-SUFFIX,netflix.com,NSFW
-DOMAIN-SUFFIX,netflix.net,NSFW
-DOMAIN-SUFFIX,netflixinvestor.com,NSFW
-DOMAIN-SUFFIX,netflixtechblog.com,NSFW
-DOMAIN-SUFFIX,nflxext.com,NSFW
-DOMAIN-SUFFIX,nflximg.com,NSFW
-DOMAIN-SUFFIX,nflximg.net,NSFW
-DOMAIN-SUFFIX,nflxsearch.net,NSFW
-DOMAIN-SUFFIX,nflxso.net,NSFW
-DOMAIN-SUFFIX,nflxvideo.net,NSFW
+DOMAIN-SUFFIX,fast.com,MEDIA
+DOMAIN-SUFFIX,netflix.ca,MEDIA
+DOMAIN-SUFFIX,netflix.com,MEDIA
+DOMAIN-SUFFIX,netflix.net,MEDIA
+DOMAIN-SUFFIX,netflixinvestor.com,MEDIA
+DOMAIN-SUFFIX,netflixtechblog.com,MEDIA
+DOMAIN-SUFFIX,nflxext.com,MEDIA
+DOMAIN-SUFFIX,nflximg.com,MEDIA
+DOMAIN-SUFFIX,nflximg.net,MEDIA
+DOMAIN-SUFFIX,nflxsearch.net,MEDIA
+DOMAIN-SUFFIX,nflxso.net,MEDIA
+DOMAIN-SUFFIX,nflxvideo.net,MEDIA
 
 #instagram
 DOMAIN-SUFFIX,achat-followers-instagram.com,DEFAULT
@@ -1501,12 +1501,12 @@ DOMAIN-SUFFIX,web-instagram.net,DEFAULT
 DOMAIN-SUFFIX,wwwinstagram.com,DEFAULT
 
 #porbhub
-DOMAIN-SUFFIX,phncdn.com,NSFW
-DOMAIN-SUFFIX,phprcdn.com,NSFW
-DOMAIN-SUFFIX,pornhub.com,NSFW
-DOMAIN-SUFFIX,pornhubpremium.com,NSFW
-DOMAIN-SUFFIX,missav.com,NSFW
-DOMAIN-SUFFIX,xvideos.com,NSFW
+DOMAIN-SUFFIX,phncdn.com,MEDIA
+DOMAIN-SUFFIX,phprcdn.com,MEDIA
+DOMAIN-SUFFIX,pornhub.com,MEDIA
+DOMAIN-SUFFIX,pornhubpremium.com,MEDIA
+DOMAIN-SUFFIX,missav.com,MEDIA
+DOMAIN-SUFFIX,xvideos.com,MEDIA
 
 #fb messenger
 DOMAIN-SUFFIX,fbmessenger.com,DEFAULT
