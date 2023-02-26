@@ -1,7 +1,12 @@
 #tiktok
-DOMAIN-SUFFIX,tiktokv.com,DEFAULT
 DOMAIN-SUFFIX,byteoversea.com,DEFAULT
+DOMAIN-SUFFIX,muscdn.com,DEFAULT
+DOMAIN-SUFFIX,musical.ly,DEFAULT
 DOMAIN-SUFFIX,tik-tokapi.com,DEFAULT
+DOMAIN-SUFFIX,tiktok.com,DEFAULT
+DOMAIN-SUFFIX,tiktokcdn.com,DEFAULT
+DOMAIN-SUFFIX,tiktokv.com,DEFAULT
+DOMAIN,p16-tiktokcdn-com.akamaized.net,DEFAULT
 
 #github, google, microsoft, youtube, onedrive, discord, twitter, facebook, reddit, instagram
 DOMAIN-SUFFIX,atom.io,DEFAULT
