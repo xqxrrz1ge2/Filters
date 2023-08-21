@@ -456,3 +456,11 @@
 .xn--ngstr-lra8j.com
 .xplr.co
 .zukunftswerkstatt.de
+.chat.openai.com.cdn.cloudflare.net
+.openaiapi-site.azureedge.net
+.challenges.cloudflare.com
+.openai.com
+.stripe.com
+.sentry.io
+.statsigapi.net
+.ai.com
