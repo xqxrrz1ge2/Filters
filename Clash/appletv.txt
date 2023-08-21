@@ -1,0 +1,8 @@
+payload:
+  - '+.appletv.com'
+  - '+.appletv.fr'
+  - '+.appletv.wang'
+  - '+.appletvapp.apple'
+  - '+.tv.apple.com'
+  - '+.videos.apple.com'
+  - '+.itunes.apple.com'
