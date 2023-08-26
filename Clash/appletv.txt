@@ -5,4 +5,3 @@ payload:
   - '+.appletvapp.apple'
   - '+.tv.apple.com'
   - '+.videos.apple.com'
-  - '+.itunes.apple.com'
