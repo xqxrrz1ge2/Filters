@@ -23,4 +23,6 @@
 .renovacionoffice.com
 .sprinklesapp.com
 .microsoft.com
+.microsoftapp.net
+.microsoftonline.com
 .office.com
