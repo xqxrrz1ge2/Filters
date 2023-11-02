@@ -4,3 +4,6 @@
 .appletvapp.apple
 .tv.apple.com
 .videos.apple.com
+.xp.apple.com
+.podcasts.apple.com
+.bookkeeper.itunes.apple.com
