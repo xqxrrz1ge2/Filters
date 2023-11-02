@@ -7,3 +7,12 @@
 .xp.apple.com
 .podcasts.apple.com
 .bookkeeper.itunes.apple.com
+.music.apple.com
+.aod.itunes.apple.com
+.mvod.itunes.apple.com
+.video-ssl.itunes.apple.com
+.hls-amt.itunes.apple.com
+.audio-ssl.itunes.apple.com
+.streamingaudio.itunes.apple.com
+.blobstore.apple.com
+.audio.itunes.apple.com
