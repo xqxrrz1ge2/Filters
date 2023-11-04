@@ -38,3 +38,4 @@
 .mincdn.com
 .yo9.com
 .upos-hz-mirrorakam.akamaized.net
+.stun.hitv.com
