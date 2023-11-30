@@ -1,4 +1,5 @@
 .openai.com
+.oaistatic.com
 .chat.openai.com.cdn.cloudflare.net
 .openaiapi-site.azureedge.net
 .openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
