@@ -459,3 +459,7 @@
 #htx, huobi
 .htx.com
 .hbfile.net
+#doge coin
+.bitcoinaverage.com
+.multidoge.org
+.dogecoin.com
