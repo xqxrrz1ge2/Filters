@@ -456,3 +456,6 @@
 .xn--ngstr-lra8j.com
 .xplr.co
 .zukunftswerkstatt.de
+#htx, huobi
+.htx.com
+.hbfile.net
