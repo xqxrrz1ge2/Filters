@@ -15,3 +15,4 @@
 .streamingaudio.itunes.apple.com
 .blobstore.apple.com
 .audio.itunes.apple.com
+.chat.meowoo.top

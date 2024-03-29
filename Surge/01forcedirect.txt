@@ -1,4 +1,3 @@
-.chat.meowoo.top
 .cdn-apple.com
 .meowoo.top
 .ele.me
