@@ -18,3 +18,4 @@
 .chat.meowoo.top
 .plex.meowoo.top
 .nodeseek.com
+.plex.tv
