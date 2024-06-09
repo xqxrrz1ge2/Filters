@@ -22,7 +22,6 @@ payload:
   - '+.3gppnetwork.org'
   - '+.cnd.redhat.com'
   - '+.redhat.com'
-  - '+.cloudfront.net'
   - '+.mzstatic.com'
   - '+.d2core.com'
   - '+.qcloud.la'
