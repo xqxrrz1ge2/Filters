@@ -19,3 +19,4 @@
 .plex.meowoo.top
 .nodeseek.com
 .plex.tv
+.yunpan1.cc
