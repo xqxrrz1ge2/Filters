@@ -16,6 +16,7 @@
 .blobstore.apple.com
 .audio.itunes.apple.com
 .chat.meowoo.top
+.chat.meowoo.net
 .plex.meowoo.top
 .nodeseek.com
 .plex.tv

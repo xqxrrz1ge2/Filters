@@ -15,4 +15,6 @@ payload:
   - '+.msftconnecttest.com'
   - '+.ipleak.net'
   - '+.openai.com'
+  - 'chat.meowoo.top'
+  - 'chat.meowoo.net'
   - '+.yunpan1.cc'
