@@ -21,3 +21,6 @@
 .nodeseek.com
 .plex.tv
 .yunpan1.cc
+.identity.ess.apple.com
+.query.ess.apple.com
+.push.apple.com

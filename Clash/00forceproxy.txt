@@ -18,3 +18,6 @@ payload:
   - 'chat.meowoo.top'
   - 'chat.meowoo.net'
   - '+.yunpan1.cc'
+  - '+.identity.ess.apple.com'
+  - '+.query.ess.apple.com'
+  - '+.push.apple.com'
