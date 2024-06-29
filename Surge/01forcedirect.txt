@@ -4,3 +4,6 @@
 .cn
 .icloud.com
 .apple.com
+.steamcontent.com
+.akamaihd.net
+.akamai.net
