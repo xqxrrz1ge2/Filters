@@ -7,3 +7,4 @@
 .steamcontent.com
 .akamaihd.net
 .akamai.net
+.emby.misakaf.org
