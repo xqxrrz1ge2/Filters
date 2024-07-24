@@ -8,3 +8,4 @@
 .akamaihd.net
 .akamai.net
 .emby.misakaf.org
+.1110111.top
