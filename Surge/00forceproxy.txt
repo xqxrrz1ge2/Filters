@@ -27,3 +27,6 @@
 .static.intercomassets.com
 .fantia.jp
 .jsdelivr.net
+.warcraft.wiki.gg
+.emby.misakaf.org
+.mtalk.google.com
