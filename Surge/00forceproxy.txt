@@ -30,3 +30,5 @@
 .warcraft.wiki.gg
 .emby.misakaf.org
 .mtalk.google.com
+.whatsapp.com
+.whatsapp.net
