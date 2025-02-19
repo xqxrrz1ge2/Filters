@@ -10,3 +10,5 @@
 .emby.misakaf.org
 .embyvip.misakaf.org
 .1110111.top
+.itunes.apple.com
+.push.apple.com
