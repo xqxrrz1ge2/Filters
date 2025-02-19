@@ -23,7 +23,6 @@
 .yunpan1.cc
 .identity.ess.apple.com
 .query.ess.apple.com
-.push.apple.com
 .static.intercomassets.com
 .fantia.jp
 .jsdelivr.net
